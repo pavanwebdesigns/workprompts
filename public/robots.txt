@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://workprompts.in
+
+# Sitemaps
+Sitemap: https://workprompts.in/sitemap.xml
